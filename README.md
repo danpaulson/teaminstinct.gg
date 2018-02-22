@@ -7,4 +7,4 @@ Simply click the file you'd like to edit, and click the pencil icon on the edito
 
 ![pencil](https://i.imgur.com/ftLZo5x.png)
 
-You'll then be able to edit the html, which should show up immediately on the site.
+You'll then be able to edit the html, which should show up shortly (~30s) on the site.
